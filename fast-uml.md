@@ -4,7 +4,7 @@
 
 # Przykłady
 
-Poniżej znajdują się diagramy doręczne oraz odpowiadącej im instrukcje w [PlantUML](http://plantuml.com)
+Poniżej znajdują się diagramy odręczne oraz odpowiadące im instrukcje w [PlantUML](http://plantuml.com)
 
 ![](free-hand-1.jpg)
 ![](free-hand-2.jpg)
